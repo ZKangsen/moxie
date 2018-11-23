@@ -18,6 +18,6 @@ Non blocking asynchronous IO framework based on epoll, with a fucus on being:
 [moxie/example/Echo.cpp](https://github.com/sxfworks/moxie/blob/master/example/Echo.cpp)
 > * Use moxie in multi-thread.</br>
 [moxie/example/MultiThreadEcho.cpp](https://github.com/sxfworks/moxie/blob/master/example/MultiThreadEcho.cpp)
-> * Use the thmer of the moxie.</br>
+> * Use the timer of the moxie.</br>
 [moxie/example/TimerExam.cpp](https://github.com/sxfworks/moxie/blob/master/example/TimerExam.cpp)
 
