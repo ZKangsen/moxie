@@ -11,10 +11,10 @@ Non blocking asynchronous IO framework based on epoll in single thread, but it c
    mv moxie ${your_project_include_path}
 ```
 ## How to use moxie
-> * Use moxie in single thread.
+> * Use moxie in single thread.</br>
 [moxie/example/Echo.cpp](https://github.com/sxfworks/moxie/blob/master/example/Echo.cpp)
-> * Use moxie in multi-thread
+> * Use moxie in multi-thread.</br>
 [moxie/example/MultiThreadEcho.cpp](https://github.com/sxfworks/moxie/blob/master/example/MultiThreadEcho.cpp)
-> * Use the thmer of the moxie
+> * Use the thmer of the moxie.</br>
 [moxie/example/TimerExam.cpp](https://github.com/sxfworks/moxie/blob/master/example/TimerExam.cpp)
 
