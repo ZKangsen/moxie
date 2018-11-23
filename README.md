@@ -1,5 +1,8 @@
 # moxie
-Non blocking asynchronous IO framework based on epoll in single thread, but it can be used in multi-thread program.
+Non blocking asynchronous IO framework based on epoll, with a fucus on being:
+* simple : easily used API, pithy code, no dependence.
+* fast : 15000 qps (Echo in single thread).
+
 
 ## Getting start
 ### install moxie
